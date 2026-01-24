@@ -1,4 +1,0 @@
-config SHIELD_GHOTOID2_LEFT
-    def_bool $(shields_list_contains,ghotoid2_left)
-config SHIELD_GHOTOID2_RIGHT
-    def_bool $(shields_list_contains,ghotoid2_right)
