@@ -29,6 +29,11 @@
             bindings = <&kp LANGUAGE_2>;
             key-positions = <12 13>;
         };
+
+        alt {
+            bindings = <&kp LEFT_ALT>;
+            key-positions = <14 26>;
+        };
     };
 
     keymap {
