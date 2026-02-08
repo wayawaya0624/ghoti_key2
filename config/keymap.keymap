@@ -10,8 +10,8 @@
             key-positions = <8 9>;
         };
 
-        tolayer3 {
-            bindings = <&to 3>;
+        tolayer2 {
+            bindings = <&to 2>;
             key-positions = <28 33>;
         };
     };
