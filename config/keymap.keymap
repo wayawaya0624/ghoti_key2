@@ -6,7 +6,7 @@
         compatible = "zmk,combos";
 
         kana {
-            bindings = <&kp LANGUAGE_5>;
+            bindings = <&kp LANGUAGE_1>;
             key-positions = <8 9>;
         };
 
@@ -23,6 +23,11 @@
         gui {
             bindings = <&kp LEFT_GUI>;
             key-positions = <17 7>;
+        };
+
+        alpha {
+            bindings = <&kp LANGUAGE_2>;
+            key-positions = <12 13>;
         };
     };
 
