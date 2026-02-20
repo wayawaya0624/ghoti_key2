@@ -41,36 +41,6 @@
             key-positions = <16 28>;
         };
 
-        Fun1 {
-            bindings = <&kp F1>;
-            key-positions = <16 23>;
-        };
-
-        Fun2 {
-            bindings = <&kp F2>;
-            key-positions = <16 24>;
-        };
-
-        Fun3 {
-            bindings = <&kp F3>;
-            key-positions = <16 25>;
-        };
-
-        Fun4 {
-            bindings = <&kp F4>;
-            key-positions = <16 12>;
-        };
-
-        Fun5 {
-            bindings = <&kp F5>;
-            key-positions = <16 13>;
-        };
-
-        Fun6 {
-            bindings = <&kp F6>;
-            key-positions = <16 14>;
-        };
-
         Fun7 {
             bindings = <&kp F7>;
             key-positions = <16 3>;
