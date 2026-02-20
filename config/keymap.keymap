@@ -55,6 +55,11 @@
             bindings = <&kp F9>;
             key-positions = <16 5>;
         };
+
+        Fun6 {
+            bindings = <&kp F6>;
+            key-positions = <16 14>;
+        };
     };
 
     keymap {
