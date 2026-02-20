@@ -36,7 +36,7 @@
             key-positions = <14 26>;
         };
 
-        ToLayer2 {
+        ToLayer1 {
             bindings = <&to 1>;
             key-positions = <16 28>;
         };
