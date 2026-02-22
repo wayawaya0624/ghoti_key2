@@ -11,11 +11,3 @@ manifest:
       import: app/west.yml
   self:
     path: config
-
-    remotes:
-    - name: caksoylar
-      url-base: https://github.com/caksoylar
-  projects:
-    - name: zmk-battery-center
-      remote: caksoylar
-      revision: main
