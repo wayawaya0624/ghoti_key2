@@ -63,7 +63,7 @@
             key-positions = <28 33>;
         };
 
-        Ctrt+T {
+        Ctrl+T {
             bindings = <&kp LC(T)>;
             key-positions = <30 10>;
         };
