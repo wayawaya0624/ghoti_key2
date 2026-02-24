@@ -63,17 +63,17 @@
             key-positions = <28 33>;
         };
 
-        Ctrl+T {
+        CtrtT {
             bindings = <&kp LC(T)>;
             key-positions = <30 10>;
         };
 
-        Ctrl+W {
+        CtrlW {
             bindings = <&kp LC(W)>;
             key-positions = <30 21>;
         };
 
-        Alt+F4 {
+        AltF4 {
             bindings = <&kp LA(F4)>;
             key-positions = <16 12>;
         };
